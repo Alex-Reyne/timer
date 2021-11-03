@@ -18,4 +18,3 @@ const timer = function(seconds) {
 }
 
 timer(prompt('Set timers: '));
-
